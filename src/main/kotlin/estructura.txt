@@ -1,0 +1,19 @@
+com.siriusbk.assistantapp
+│
+├── MainActivity.kt
+│
+├── navigation
+│   └── AppNavigation.kt
+│
+├── ui
+│   ├── HomeScreen.kt
+│   ├── RemindersScreen.kt
+│   ├── NotesScreen.kt
+│
+├── model
+│   ├── Reminder.kt
+│   └── Note.kt
+│
+└── theme
+    ├── Color.kt
+    ├── Theme.kt
